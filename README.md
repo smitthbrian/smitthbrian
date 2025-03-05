@@ -7,7 +7,7 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 - **[Liber8tion Password Cracking Simulation](https://github.com/smitthbrian/liber8tion-simulation)**  
   Cracking password dumps using Hashcat and the rockyou wordlist to simulate real-world hacker scenarios.
 
-- **[Wireshark Incident Report Simulation](https://github.com/smitthbrian/wireshark-incident-report)**  
+- **[Wireshark Incident Report Simulation](https://github.com/smitthbrian/Wireshark-Incident-Report-)**  
   A detailed report analyzing network incidents using Wireshark to identify anomalies and threats.
 
 ## 🛡️ IT Auditing and Government Compliance Projects
