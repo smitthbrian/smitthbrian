@@ -4,7 +4,7 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 
 ## 🔍 Ethical Hacking and Threat Detection Projects
 
-- **[Liber8tion Password Cracking Simulation](https://github.com/smitthbrian/liber8tion-simulation)**  
+- **[Liber8tion Password Cracking Simulation](https://github.com/smitthbrian/Network-Traffic-Analysis)**  
   Cracking password dumps using Hashcat and the rockyou wordlist to simulate real-world hacker scenarios.
 
 - **[Wireshark Incident Report Simulation](https://github.com/smitthbrian/Wireshark-Incident-Report-)**  
@@ -12,15 +12,15 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 
 ## 🛡️ IT Auditing and Government Compliance Projects
 
-- **[Incident Disclosure Mock Report for Flair Airlines](https://github.com/smitthbrian/incident-disclosure-report)**  
+- **[Incident Disclosure Mock Report for Flair Airlines](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report)**  
   A mock cybersecurity incident report summarizing federal laws and disclosure requirements for a simulated board meeting.
 
-- **[Web Access Log Analysis for Superior Schedules](https://github.com/smitthbrian/web-access-log-analysis)**  
+- **[Web Access Log Analysis for Superior Schedules](https://github.com/smitthbrian/Password-Audit-Simulation)**  
   Auditing web access logs to identify probing attempts and indicators of compromise like AndroxGh0st and SYSTEMBC.
 
 ## 📊 Data and Database Management Projects
 
-- **[Database Management Simulation](https://github.com/smitthbrian/database-management-project)**  
+- **[Database Management Simulation](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)**  
   A comprehensive project on creating and managing databases, leveraging SQL for business insights.
 
 ## 🌱 Connect With Me
