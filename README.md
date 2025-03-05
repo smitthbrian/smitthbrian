@@ -18,6 +18,11 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 - **[Web Access Log Analysis for Superior Schedules](https://github.com/smitthbrian/Password-Audit-Simulation)**  
   Auditing web access logs to identify probing attempts and indicators of compromise like AndroxGh0st and SYSTEMBC.
 
+## 🔒 Cybersecurity and Risk Management Projects
+
+- **[Ransomware and Least Privilege Project](https://github.com/smitthbrian/Ransomware-and-Least-Privilege-Project)**  
+  A project focused on implementing the principle of least privilege to prevent ransomware attacks, including security measures and risk mitigation strategies.
+
 ## 📊 Data and Database Management Projects
 
 - **[Database Management Simulation](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)**  
@@ -28,3 +33,4 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 [<img align="left" alt="Brian Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/briansmith2025/
+
