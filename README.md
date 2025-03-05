@@ -10,7 +10,7 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 - **[Wireshark Incident Report Simulation](https://github.com/smitthbrian/wireshark-incident-report)**  
   A detailed report analyzing network incidents using Wireshark to identify anomalies and threats.
 
-## 🛡️ IT Auditing and Compliance Projects
+## 🛡️ IT Auditing and Government Compliance Projects
 
 - **[Incident Disclosure Mock Report for Flair Airlines](https://github.com/smitthbrian/incident-disclosure-report)**  
   A mock cybersecurity incident report summarizing federal laws and disclosure requirements for a simulated board meeting.
