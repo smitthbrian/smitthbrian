@@ -1,44 +1,113 @@
-# Brian Smith's IT and Cybersecurity Project Portfolio 🛡️  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/125217514/267896867-4b1f1ba7-84ea-4bb4-9bd8-2519b040ec24.png" width="100%" />
+</p>
 
-I'm passionate about integrating AI into cybersecurity solutions and improving the ethical and efficient use of these systems. My projects focus on areas such as IT auditing, threat detection, ethical hacking, and governance. Feel free to explore my repositories and see how I apply hands-on solutions to modern security challenges.  
+<h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
+<p align="center">
+  🎓 BSBA in Computer Information Systems | Cybersecurity <br>
+  💻 Walker College of Business | Appalachian State University (May 2025) <br>
+  📍 North Carolina | Open to relocating nationwide
+</p>
 
-## 🔥 Ethical Hacking and Offensive Security  
+---
 
-- **[Password Cracking: Windows & Kali Attack Simulation](https://github.com/smitthbrian/Password-Cracking)**  
-  A hands-on ethical hacking project demonstrating password cracking techniques using Windows & Kali VMs, Hashcat, NTLM hashing, and Wireshark packet analysis. This project bridges technical concepts with non-technical explanations for better cybersecurity awareness.  
+## 🔹 About Me
 
-- **[SQL Injection Vulnerabilities](https://github.com/smitthbrian/SQL-Injection-Vulnerabilities)**  
-  A practical demonstration of SQL injection attacks, their risks, and effective mitigation techniques. This project walks through exploiting SQL vulnerabilities using Windows Server, MariaDB, and ASPX applications while also showcasing secure coding practices.  
+Hey, I’m **Brian Smith** — a driven cybersecurity student with a passion for making tech safer and more ethical. My work combines real-world offensive and defensive security projects, IT audits, and risk management to help organizations prepare for and respond to emerging cyber threats.
 
-- **[Liber8tion Password Cracking Simulation](https://github.com/smitthbrian/Network-Traffic-Analysis)**  
-  Cracking password dumps using Hashcat and the rockyou wordlist to simulate real-world hacker scenarios.  
+I'm particularly interested in integrating **AI into cybersecurity systems**, building secure networks, and translating technical findings into strategic solutions for businesses.
 
-## 🛡️ Security Operations and Threat Analysis  
+---
 
-- **[Wireshark Incident Report Simulation](https://github.com/smitthbrian/Wireshark-Incident-Report-)**  
-  A detailed report analyzing network incidents using Wireshark to identify anomalies and threats.  
+## 🧠 Technical Skills & Tools
 
-- **[Web Access Log Analysis for Superior Schedules](https://github.com/smitthbrian/Password-Audit-Simulation)**  
-  Auditing web access logs to identify probing attempts and indicators of compromise like AndroxGh0st and SYSTEMBC.  
+- **Languages**: Python, SQL, PowerShell
+- **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit
+- **Systems**: Windows, Kali Linux, Ubuntu
+- **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync
+- **Certifications**: Microsoft Excel (Office 365), preparing for CompTIA Security+
 
-## 🚨 Risk Management and Defensive Security  
+---
 
-- **[Ransomware and Least Privilege Project](https://github.com/smitthbrian/Ransomware-and-Least-Privilege-Project)**  
-  A project focused on implementing the principle of least privilege to prevent ransomware attacks, including security measures and risk mitigation strategies.  
+## 🏁 Cyber Competitions
 
-- **[Incident Disclosure Mock Report for Flair Airlines](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report)**  
-  A mock cybersecurity incident report summarizing federal laws and disclosure requirements for a simulated board meeting.  
+- 🥷 **National Cyber League Competitor – Fall 2024**  
+  Competed in real-world cybersecurity challenges: forensic analysis, penetration testing, password cracking, log review, and malware recovery.  
+  🏅 Ranked **Top 10% nationally** (Team) and **Top 25% individually** out of 8,468+ participants.
 
-- **[Web Application Vulnerabilities](https://github.com/smitthbrian/XSS-CSRF-Session-Hijacking-and-Malicious-File-Uploads/tree/main)**  
-  A multi-vector security walkthrough of XSS, CSRF, session hijacking, and malicious file upload attacks. Includes real-world examples using vulnerable .aspx pages, session cloning, cookie theft, and mitigation strategies like WAFs, input validation, and secure file handling.
+---
 
-## 📊 Data and Database Security  
+## 📂 Featured Projects
 
-- **[Database Management Simulation](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)**  
-  A comprehensive project on creating and managing databases, leveraging SQL for business insights.  
+### 🔥 Ethical Hacking & Offensive Security
 
-## 🌱 Connect With Me  
+- 🔓 [**Password Cracking: Windows & Kali Attack Simulation**](https://github.com/smitthbrian/Password-Cracking)  
+  Simulates real-world attacks using NTLM hash extraction, Wireshark, and Hashcat on VMs.
 
-[<img align="left" alt="Brian Smith | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+- 🩻 [**SQL Injection Vulnerabilities**](https://github.com/smitthbrian/SQL-Injection-Vulnerabilities)  
+  Showcases both offensive injection techniques and defensive secure coding using ASPX & MariaDB.
 
-[linkedin]: https://www.linkedin.com/in/briansmith2025/  
+- 💀 [**Liber8tion Password Cracking Simulation**](https://github.com/smitthbrian/Network-Traffic-Analysis)  
+  Cracked password dumps with rockyou + Hashcat to analyze a fictional hacker group's breach.
+
+---
+
+### 🛡️ Security Operations & Threat Analysis
+
+- 🕵️ [**Wireshark Incident Report Simulation**](https://github.com/smitthbrian/Wireshark-Incident-Report-)  
+  Network forensics and anomaly detection using packet capture analysis in a simulated security incident.
+
+- 📈 [**Web Access Log Audit – Superior Schedules**](https://github.com/smitthbrian/Password-Audit-Simulation)  
+  Log analysis to identify reconnaissance activity and malware indicators like SYSTEMBC and AndroxGh0st.
+
+---
+
+### 🚨 Risk Management & Compliance
+
+- 🧾 [**Incident Disclosure Report – Flair Airlines**](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report)  
+  Legal analysis and executive report simulating a public breach event under SOX, GLBA, and GDPR.
+
+- 🦠 [**Ransomware and Least Privilege Project**](https://github.com/smitthbrian/Ransomware-and-Least-Privilege-Project)  
+  Highlights how enforcing least privilege policies reduces ransomware risk in enterprise environments.
+
+- 🌐 [**Web App Vulnerabilities Simulation**](https://github.com/smitthbrian/XSS-CSRF-Session-Hijacking-and-Malicious-File-Uploads)  
+  Simulated exploit demos: XSS, CSRF, session hijacking, and file upload abuse — with mitigation strategies.
+
+---
+
+### 📊 Data & System Administration
+
+- 🗃️ [**Database Management Simulation**](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)  
+  Designed, queried, and normalized SQL tables to manage customer and sales data for a mock business.
+
+- 🔄 **Salesforce-QuickBooks Integration Project (Private Repo due to Sensitive Data)**  
+  Configured secure user roles, sandbox environments, and field mappings using Salesforce, Quickbooks, and DBSync.
+
+---
+
+## 💼 Leadership & Experience
+
+- 🧭 **Ranger & Kitchen Manager, Philmont Scout Ranch**  
+  Led high-adventure backpacking crews, trained staff in safety and leadership, and managed team performance.
+
+- 🧠 **Club Member – Appalachian Information Technology Professionals**  
+  Engaged in cybersecurity networking, project collaboration, and career prep for IT students.
+
+- 🚴 **Eagle Scout – Bike Recyclery Project**  
+  Organized volunteers to restore 30+ bikes and rehabilitate local trails used by children’s programs.
+
+---
+
+## 📬 Contact Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/briansmith2025/)
+- 📧 Email: smitthbrian2@gmail.com
+- 💼 Resume: [View Resume (DOCX)](https://github.com/smitthbrian/BrianSmithResume/blob/main/BrianSmith_Resume_IP.docx)
+
+---
+
+<p align="center">
+  <i>"Cybersecurity isn't just about defense—it's about trust, resilience, and leading with integrity."</i><br>
+</p>
+
+
