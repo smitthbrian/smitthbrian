@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125217514/267896867-4b1f1ba7-84ea-4bb4-9bd8-2519b040ec24.png" width="100%" />
+  <img src="[https://user-images.githubusercontent.com/125217514/267896867-4b1f1ba7-84ea-4bb4-9bd8-2519b040ec24.png](https://github.com/smitthbrian/cyber/blob/main/cyber.jpg)" width="100%" />
 </p>
 
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
