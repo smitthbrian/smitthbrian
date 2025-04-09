@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/smitthbrian/cyber/raw/main/cyber.jpg" alt="Cybersecurity Network Banner" width="100%">
+  <img src="https://github.com/smitthbrian/profilebanner/blob/main/banner.jpg" width="100%">
 </p>
 
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
