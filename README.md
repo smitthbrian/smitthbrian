@@ -29,6 +29,9 @@ I'm passionate about integrating AI into cybersecurity solutions and improving t
 - **[Incident Disclosure Mock Report for Flair Airlines](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report)**  
   A mock cybersecurity incident report summarizing federal laws and disclosure requirements for a simulated board meeting.  
 
+- **[Web Application Vulnerabilities Simulation](https://github.com/smitthbrian/XSS-CSRF-Session-Hijacking-and-Malicious-File-Uploads/tree/main)**  
+  A multi-vector security walkthrough of XSS, CSRF, session hijacking, and malicious file upload attacks. Includes real-world examples using vulnerable .aspx pages, session cloning, cookie theft, and mitigation strategies like WAFs, input validation, and secure file handling.
+
 ## 📊 Data and Database Security  
 
 - **[Database Management Simulation](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)**  
