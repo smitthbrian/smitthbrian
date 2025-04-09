@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/smitthbrian/profilebanner/main/banner.jpg" style="width: 100%; height: auto; object-fit: cover; object-position: top;">
+  <img src="https://raw.githubusercontent.com/smitthbrian/profilebanner/main/banner.jpg" alt="Cybersecurity Network Banner" style="width: 100%; height: 200px; object-fit: cover;">
 </p>
-
 
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
 <p align="center">
