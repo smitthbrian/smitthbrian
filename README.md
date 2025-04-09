@@ -107,7 +107,9 @@ I'm particularly interested in integrating **AI into cybersecurity systems**, bu
 ---
 
 <p align="center">
-  <i>"Cybersecurity isn't just about defense—it's about trust, resilience, and leading with integrity."</i><br>
+  <i>"It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it."</i><br>
+  <b>– Stéphane Nappo</b>
 </p>
+
 
 
