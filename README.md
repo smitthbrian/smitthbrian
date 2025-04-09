@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/smitthbrian/profilebanner/blob/main/banner.jpg" width="100%">
+  <img src="https://raw.githubusercontent.com/smitthbrian/profilebanner/main/banner.jpg" style="width: 100%; height: auto; object-fit: cover; object-position: top;">
 </p>
+
 
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
 <p align="center">
