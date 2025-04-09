@@ -25,7 +25,7 @@ I'm particularly interested in integrating **AI into cybersecurity systems**, bu
 - **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit
 - **Systems**: Windows, Kali Linux, Ubuntu
 - **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync
-- **Certifications**: Microsoft Excel (Office 365), preparing for CompTIA Security+
+- **Certifications**: Microsoft Excel (Office 365), preparing for CySA+ and CEH
 
 ---
 
@@ -33,7 +33,7 @@ I'm particularly interested in integrating **AI into cybersecurity systems**, bu
 
 - 🥷 **National Cyber League Competitor – Fall 2024**  
   Competed in real-world cybersecurity challenges: forensic analysis, penetration testing, password cracking, log review, and malware recovery.  
-  🏅 Ranked **Top 10% nationally** (Team) and **Top 25% individually** out of 8,468+ participants.
+  🏅 Ranked **Top 10% nationally** (Team) and **Top 25% individually** out of 8,400+ participants.
 
 ---
 
