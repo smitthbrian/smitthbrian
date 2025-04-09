@@ -15,7 +15,8 @@
 
 Hey, I’m **Brian Smith** — a driven cybersecurity student with a passion for making tech safer and more ethical. My work combines real-world offensive and defensive security projects, IT audits, and risk management to help organizations prepare for and respond to emerging cyber threats.
 
-I'm particularly interested in integrating **AI into cybersecurity systems**, building secure networks, and translating technical findings into strategic solutions for businesses.
+I'm particularly focused on integrating **AI into cybersecurity systems**, designing robust, secure networks, and translating complex technical findings into actionable, strategic solutions for businesses. I strongly believe in the power of **_continuous learning_**, a mindset that is essential in the ever-evolving world of cybersecurity. As threats become more sophisticated, it’s crucial for professionals to stay ahead of the curve and adapt—there's always more to learn, and staying informed is key to defending against the unknown.
+
 
 ---
 
