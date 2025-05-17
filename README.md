@@ -1,4 +1,3 @@
-
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
 <p align="center">
   🎓 BSBA in Computer Information Systems | Concentration: Cybersecurity <br>
