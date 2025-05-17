@@ -2,7 +2,7 @@
 <p align="center">
   🎓 BSBA in Computer Information Systems | Concentration: Cybersecurity <br>
   💻 Walker College of Business | Appalachian State University (Class of 2025) <br>
-  📍 North Carolina | Currently a Cybersecurity Intern at InfusionPoints, LLC
+  📍 North Carolina | Currently a Cybersecurity Intern at [InfusionPoints, LLC](https://infusionpoints.com/)
 </p>
 
 ---
