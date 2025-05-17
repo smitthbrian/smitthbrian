@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/smitthbrian/banner/blob/main/banner.png" alt="Cybersecurity Network Banner" style="width: 100%;">
-</p>
 
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
 <p align="center">
