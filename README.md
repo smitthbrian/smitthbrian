@@ -1,18 +1,17 @@
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
 <p align="center">
   🎓 BSBA in Computer Information Systems | Concentration: Cybersecurity <br>
-  💻 Walker College of Business | Appalachian State University (May 2025) <br>
-  📍 North Carolina | Open to relocating nationwide
+  💻 Walker College of Business | Appalachian State University (Class of 2025) <br>
+  📍 North Carolina | Currently a Cybersecurity Intern at InfusionPoints, LLC
 </p>
 
 ---
 
 ## 🔹 About Me
 
-Hey, I’m **Brian Smith** — a driven CIS and cybersecurity student with a passion for making tech safer and more ethical. My work combines real-world offensive and defensive security projects, IT audits, and risk management to help organizations prepare for and respond to emerging cyber threats.
+Hey, I’m **Brian Smith** — a recent CIS graduate and current Cybersecurity Intern at InfusionPoints, LLC, where I’m rotating through departments like advisory, engineering, and the Security Operations Center (SOC). My work bridges offensive and defensive security, IT auditing, and compliance-driven risk management.
 
-I'm particularly focused on integrating **AI into cybersecurity systems**, designing robust, secure networks, and translating complex technical findings into actionable, strategic solutions for businesses. I strongly believe in the power of **_continuous learning_**, a mindset that is essential in the ever-evolving world of cybersecurity. As threats become more sophisticated, it’s crucial for professionals to stay ahead of the curve and adapt—there's always more to learn, and staying informed is key to defending against the unknown.
-
+I'm especially passionate about integrating **AI into cybersecurity systems**, designing secure enterprise networks, and communicating complex findings in business-aligned terms. I strongly believe in the power of **_continuous learning_** — staying informed, adaptable, and always one step ahead of evolving threats.
 
 ---
 
@@ -57,6 +56,9 @@ I'm particularly focused on integrating **AI into cybersecurity systems**, desig
 - 📈 [**Web Access Log Audit – Superior Schedules**](https://github.com/smitthbrian/Password-Audit-Simulation)  
   Log analysis to identify reconnaissance activity and malware indicators like SYSTEMBC and AndroxGh0st.
 
+- 🌐 [**Remote Access VPN & Network Defense**](https://github.com/smitthbrian/VPN)  
+  Configured secure VPN access using pfSense and OpenVPN with access controls, firewall rules, and certificate-based authentication. Demonstrated encrypted file share access and endpoint compliance checks.
+
 ---
 
 ### 🚨 Risk Management & Compliance
@@ -77,8 +79,8 @@ I'm particularly focused on integrating **AI into cybersecurity systems**, desig
 - 🗃️ [**Database Management Simulation**](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)  
   Designed, queried, and normalized SQL tables to manage customer and sales data for a mock business.
 
-- 🔄 **Salesforce-QuickBooks Integration Project (Private Repo due to Sensitive Data)**  
-  Configured secure user roles, sandbox environments, and field mappings using Salesforce, Quickbooks, and DBSync.
+- 🔄 [**Salesforce–QuickBooks ETL Integration Project**](https://github.com/smitthbrian/ETL-Project)  
+  Automated invoicing and payment sync for a smart home tech firm using DBSync. Created ETL pipelines between Salesforce and QuickBooks to eliminate manual data entry and reduce error rates.
 
 ---
 
@@ -107,6 +109,7 @@ I'm particularly focused on integrating **AI into cybersecurity systems**, desig
   <i>"It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it."</i><br>
   <b>– Stéphane Nappo</b>
 </p>
+
 
 
 
