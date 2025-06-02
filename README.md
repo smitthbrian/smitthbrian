@@ -11,17 +11,22 @@
 
 Hey, I’m **Brian Smith** — a recent CIS graduate and current Cybersecurity Intern at InfusionPoints, LLC, where I’m rotating through departments like advisory, engineering, and the Security Operations Center (SOC). My work bridges offensive and defensive security, IT auditing, and compliance-driven risk management.
 
-I'm especially passionate about integrating **AI into cybersecurity systems**, designing secure enterprise networks, and communicating complex findings in business-aligned terms. I strongly believe in the power of **_continuous learning_** — staying informed, adaptable, and always one step ahead of evolving threats.
+Recently, I earned the **AWS Certified Cloud Practitioner** certification and am preparing for the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification to deepen my expertise in cloud architecture and security. 
+
+I'm especially passionate about integrating **AI into cybersecurity systems**, designing secure enterprise networks, and communicating complex findings in business-aligned terms. I strongly believe in the power of _continuous learning_ — staying informed, adaptable, and always one step ahead of evolving threats.
 
 ---
 
-## 🧠 Technical Skills & Tools
+### 🧠 Technical Skills & Tools
 
-- **Languages**: Python, SQL, PowerShell
-- **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit
-- **Systems**: Windows, Kali Linux, Ubuntu
-- **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync
-- **Certifications**: Microsoft Excel (Office 365), preparing for CySA+ and CEH
+- **Languages**: Python, SQL, PowerShell  
+- **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit  
+- **Systems**: Windows, Kali Linux, Ubuntu  
+- **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
+- **Certifications**:  
+  - Microsoft Excel (Office 365)  
+  - **AWS Certified Cloud Practitioner**  
+  - _Preparing for_: **AWS Certified Solutions Architect – Associate (SAA-C03)** and CySA+
 
 ---
 
