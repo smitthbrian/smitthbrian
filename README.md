@@ -7,6 +7,16 @@
 
 ---
 
+## 🌟 Highlights
+
+- **Cybersecurity Intern – InfusionPoints, LLC** – Rotated through CloudOps, Advisory, Security Engineering/Development, and SOC. Contributed to automation, FedRAMP compliance work, vulnerability management, and internal process improvements.  
+- **AWS Certified Solutions Architect – Associate** & **Cloud Practitioner** – Strong foundation in cloud architecture, security, and AWS service integration.  
+- **VBA & Office Automation** – Designed automated document generation systems to streamline workflows and reduce turnaround times.  
+- **Cross-Functional Collaboration** – Worked with engineers, consultants, and SOC analysts to deliver results in both technical and client-facing contexts.  
+- **Compliance & Risk Knowledge** – Gained practical exposure to FedRAMP, DoD IL5, and security best practices through hands-on project work.  
+
+---
+
 ## 🔹 About Me
 
 Hey, I’m **Brian Smith** — a recent CIS graduate and current Cybersecurity Intern at InfusionPoints, LLC, where I’m rotating through departments like advisory, engineering, and the Security Operations Center (SOC). My work bridges offensive and defensive security, IT auditing, and compliance-driven risk management.
@@ -17,16 +27,28 @@ I'm especially passionate about integrating **AI into cybersecurity systems**, d
 
 ---
 
+## ☀️ Summer 2025 Cybersecurity Internship – InfusionPoints, LLC
+
+- Rotated through **Cloud Operations, Advisory, Security Engineering/Development, and SOC** teams.  
+- Contributed to **automation and process improvement initiatives**, including internal tooling for document generation and workflow efficiency.  
+- Gained hands-on experience in **FedRAMP, DoD IL5, and other compliance frameworks** through policy review, testing, and market research.  
+- Collaborated with cross-functional teams on vulnerability scanning, POA&M management, and environment support.  
+- Strengthened AWS expertise (earning **AWS Solutions Architect – Associate**) and applied cloud skills to internal projects.  
+- Developed stronger client-facing and technical communication skills by translating project needs into actionable technical solutions.  
+
+---
+
 ### 🧠 Technical Skills & Tools
 
-- **Languages**: Python, SQL, PowerShell  
-- **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit  
+- **Languages**: Python, SQL, PowerShell, VBA  
+- **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit, Microsoft Office Automation (Word/Excel Macros)  
 - **Systems**: Windows, Kali Linux, Ubuntu  
-- **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
+- **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync, AWS Cloud Services (EC2, S3, Amplify, API Gateway, DynamoDB)  
 - **Certifications**:  
   - Microsoft Excel (Office 365)  
   - **AWS Certified Cloud Practitioner**  
-  - _Preparing for_: **AWS Certified Solutions Architect – Associate (SAA-C03)** and CySA+
+  - **AWS Certified Solutions Architect – Associate (SAA-C03)**  
+  - _Preparing for_: CompTIA CySA+
 
 ---
 
@@ -39,6 +61,7 @@ I'm especially passionate about integrating **AI into cybersecurity systems**, d
 ---
 
 ## 📂 Featured Projects
+<!-- Projects section remains unchanged -->
 
 ### 🔥 Ethical Hacking & Offensive Security
 
@@ -111,10 +134,6 @@ I'm especially passionate about integrating **AI into cybersecurity systems**, d
 ---
 
 <p align="center">
-  <i>"It takes 20 years to build a reputation and a few minutes of cyber-incident to ruin it."</i><br>
-  <b>– Stéphane Nappo</b>
+  <i>"AI will not replace humans, but those who use AI will replace those who don't."</i><br>
+  <b>– Ginni Rometty, Former CEO of IBM</b>
 </p>
-
-
-
-
