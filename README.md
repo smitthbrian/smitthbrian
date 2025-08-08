@@ -12,7 +12,7 @@
 - **Cybersecurity Intern – InfusionPoints, LLC** – Rotated through CloudOps, Advisory, Security Engineering/Development, and SOC. Contributed to DocDev automation, FedRAMP compliance work, vulnerability management, and internal process improvements.  
 - **AWS Certified Solutions Architect – Associate** & **Cloud Practitioner** – Strong foundation in cloud architecture, security, and AWS service integration.  
 - **VBA & Office Automation** – Designed automated document generation systems to streamline workflows and reduce turnaround times.  
-- **Cross-Functional Collaboration** – Worked with engineers, consultants, and SOC analysts to deliver results in both technical and client-facing contexts.  
+- **Cross-Functional Collaboration** – Worked with engineers, consultants, and other team members to deliver results in both technical and client-facing contexts.  
 - **Compliance & Risk Knowledge** – Gained practical exposure to FedRAMP, DoD IL5, and security best practices through hands-on project work.  
 
 ---
