@@ -48,7 +48,7 @@ I'm especially passionate about integrating **AI into cybersecurity systems**, d
   - Microsoft Excel (Office 365)  
   - **AWS Certified Cloud Practitioner**  
   - **AWS Certified Solutions Architect – Associate (SAA-C03)**  
-  - _Preparing for_: CompTIA CySA+
+  - _Preparing for_: AWS Security Specialist (SCS-C02), expected Exam date 10/01/2025
 
 ---
 
