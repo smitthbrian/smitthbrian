@@ -23,7 +23,7 @@ Hey, I’m **Brian Smith** — a recent CIS graduate and current Cybersecurity I
 
 Recently, I earned the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification, which deepened my expertise in cloud architecture and security. To prepare for that exam, I earned the **AWS Certified Cloud Practitioner** certification, setting a good baseline for the SAA-C03 exam. I am currently preparing for the **AWS Certified Security - Specialty** exam in October. 
 
-I'm especially passionate about integrating **AI into cybersecurity systems**, designing secure enterprise networks, and communicating complex findings in business-aligned terms. I strongly believe in the power of _continuous learning_ — staying informed, adaptable, and always one step ahead of evolving threats.
+I'm especially passionate about automating Cybersecurity systems whenever possible, designing secure enterprise networks, and communicating complex findings in business-aligned terms. I strongly believe in the power of _continuous learning_ — staying informed, adaptable, and always one step ahead of evolving threats.
 
 ---
 
@@ -40,10 +40,10 @@ I'm especially passionate about integrating **AI into cybersecurity systems**, d
 
 ### 🧠 Technical Skills & Tools
 
-- **Languages**: Python, SQL, PowerShell, VBA  
-- **Tools**: Wireshark, Burp Suite, Hashcat, Nmap, Snort, Autopsy, Metasploit, Microsoft Office Automation (Word/Excel Macros)  
+- **Languages**: Python, VBA, SQL, PowerShell, JSON
+- **Tools**: Wireshark, Burp Suite, Nessus, Amazon Inspector, Hashcat, Nmap, Snort, Autopsy, Metasploit, PowerAutomate  
 - **Systems**: Windows, Kali Linux, Ubuntu  
-- **Other**: Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync, AWS Cloud Services (EC2, S3, Amplify, API Gateway, DynamoDB)  
+- **Other**: AWS Cloud Services (EC2, S3, Amplify, API Gateway, DynamoDB), Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
 - **Certifications**:  
   - Microsoft Excel (Office 365)  
   - **AWS Certified Cloud Practitioner**  
@@ -60,55 +60,64 @@ I'm especially passionate about integrating **AI into cybersecurity systems**, d
 
 ---
 
-## 📂 Featured Projects
-<!-- Projects section remains unchanged -->
+## 📂 Featured Projects  
 
-### 🔥 Ethical Hacking & Offensive Security
+### ⚙️ Process Automation & Cloud Integration  
+- 📝 **SOWForge – Automated SOW Generation Tool** *(Private Repo)*  
+  VBA-powered Word automation integrated with Excel-based content mapping to dynamically generate Statements of Work. Reduced document turnaround from hours to minutes. *(Full project details available upon request.)*  
 
+- 🤖 [**BioBot – Employee Bio Website Automation Platform**](https://github.com/smitthbrian/BioBot)  
+  AWS/GCP-powered form submission and approval workflow for collecting and publishing employee bios. Automated approvals, content formatting, and delivery to the company website. *(Full presentation available upon request.)*  
+
+---
+
+### 🔥 Ethical Hacking & Offensive Security  
 - 🔓 [**Password Cracking: Windows & Kali Attack Simulation**](https://github.com/smitthbrian/Password-Cracking)  
-  Simulates real-world attacks using NTLM hash extraction, Wireshark, and Hashcat on VMs.
+  Simulates real-world attacks using NTLM hash extraction, Wireshark, and Hashcat on VMs.  
 
 - 🩻 [**SQL Injection Vulnerabilities**](https://github.com/smitthbrian/SQL-Injection-Vulnerabilities)  
-  Showcases both offensive injection techniques and defensive secure coding using ASPX & MariaDB.
+  Showcases both offensive injection techniques and defensive secure coding using ASPX & MariaDB.  
 
 - 💀 [**Liber8tion Password Cracking Simulation**](https://github.com/smitthbrian/Network-Traffic-Analysis)  
-  Cracked password dumps with rockyou + Hashcat to analyze a fictional hacker group's breach.
+  Cracked password dumps with rockyou + Hashcat to analyze a fictional hacker group's breach.  
 
 ---
 
-### 🛡️ Security Operations & Threat Analysis
-
+### 🛡️ Security Operations & Threat Analysis  
 - 🕵️ [**Wireshark Incident Report Simulation**](https://github.com/smitthbrian/Wireshark-Incident-Report-)  
-  Network forensics and anomaly detection using packet capture analysis in a simulated security incident.
+  Network forensics and anomaly detection using packet capture analysis in a simulated security incident.  
 
 - 📈 [**Web Access Log Audit – Superior Schedules**](https://github.com/smitthbrian/Password-Audit-Simulation)  
-  Log analysis to identify reconnaissance activity and malware indicators like SYSTEMBC and AndroxGh0st.
+  Log analysis to identify reconnaissance activity and malware indicators like SYSTEMBC and AndroxGh0st.  
 
 - 🌐 [**Remote Access VPN & Network Defense**](https://github.com/smitthbrian/VPN)  
-  Configured secure VPN access using pfSense and OpenVPN with access controls, firewall rules, and certificate-based authentication. Demonstrated encrypted file share access and endpoint compliance checks.
+  Configured secure VPN access using pfSense and OpenVPN with access controls, firewall rules, and certificate-based authentication. Demonstrated encrypted file share access and endpoint compliance checks.  
 
 ---
 
-### 🚨 Risk Management & Compliance
-
+### 🚨 Risk Management & Compliance  
 - 🧾 [**Incident Disclosure Report – Flair Airlines**](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report)  
-  Legal analysis and executive report simulating a public breach event under SOX, GLBA, and GDPR.
+  Legal analysis and executive report simulating a public breach event under SOX, GLBA, and GDPR.  
 
 - 🦠 [**Ransomware and Least Privilege Project**](https://github.com/smitthbrian/Ransomware-and-Least-Privilege-Project)  
-  Highlights how enforcing least privilege policies reduces ransomware risk in enterprise environments.
+  Highlights how enforcing least privilege policies reduces ransomware risk in enterprise environments.  
 
 - 🌐 [**Web App Vulnerabilities Simulation**](https://github.com/smitthbrian/XSS-CSRF-Session-Hijacking-and-Malicious-File-Uploads)  
-  Simulated exploit demos: XSS, CSRF, session hijacking, and file upload abuse — with mitigation strategies.
+  Simulated exploit demos: XSS, CSRF, session hijacking, and file upload abuse — with mitigation strategies.  
 
 ---
 
-### 📊 Data & System Administration
-
+### 📊 Data & System Administration  
 - 🗃️ [**Database Management Simulation**](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)  
-  Designed, queried, and normalized SQL tables to manage customer and sales data for a mock business.
+  Designed, queried, and normalized SQL tables to manage customer and sales data for a mock business.  
 
 - 🔄 [**Salesforce–QuickBooks ETL Integration Project**](https://github.com/smitthbrian/ETL-Project)  
-  Automated invoicing and payment sync for a smart home tech firm using DBSync. Created ETL pipelines between Salesforce and QuickBooks to eliminate manual data entry and reduce error rates.
+  Automated invoicing and payment sync for a smart home tech firm using DBSync. Created ETL pipelines between Salesforce and QuickBooks to eliminate manual data entry and reduce error rates.  
+
+---
+
+**Confidentiality Note**  
+> Some project repositories and supporting materials are private due to confidentiality or file size. Full details and presentations are available upon request.
 
 ---
 
