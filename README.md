@@ -9,12 +9,15 @@
 
 ## 🌟 Highlights
 
-- **Rotational Cybersecurity Intern [Summer 2025] – InfusionPoints, LLC** – Rotated through CloudOps, Advisory, Security Engineering/Development, and SOC. Contributed to DocDev automation, FedRAMP compliance work, vulnerability management, and internal process improvements.  
-- **AWS Certified Solutions Architect – Associate** & **Cloud Practitioner** – Strong foundation in cloud architecture, security, and AWS service integration.  
-- **VBA & Office Automation** – Designed automated document generation systems to streamline workflows and reduce turnaround times.  
-- **Cross-Functional Collaboration** – Worked with engineers, consultants, and other team members to deliver results in both technical and client-facing contexts.  
-- **Compliance & Risk Knowledge** – Gained practical exposure to FedRAMP, DoD IL5, and security best practices through hands-on project work.  
-
+- **Cybersecurity & Cloud Professional** – BSBA in Computer Information Systems (Cybersecurity concentration) with hands-on experience across cloud architecture, automation, security operations, and compliance.  
+- **Diverse Project Portfolio** – Built and documented 20+ technical projects spanning process automation, ethical hacking, SOC analysis, compliance reporting, secure network design, and database management.  
+- **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, with ongoing preparation for the AWS Security Specialty exam. Experienced with AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
+- **Process Automation** – Designed VBA- and cloud-powered solutions to streamline workflows, reduce turnaround times, and eliminate repetitive manual tasks.  
+- **Security Operations & Threat Analysis** – Proficient in tools like Wireshark, Nessus, Burp Suite, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
+- **Compliance & Risk Knowledge** – Practical exposure to FedRAMP, DoD IL5, CMMC, and security best practices through hands-on client and simulation projects.  
+- **Leadership & Collaboration** – Experience leading high-adventure teams, managing cross-functional projects, and working effectively with engineers, consultants, and security analysts to deliver results.  
+- **Continuous Learner** – Committed to professional growth through certifications, cybersecurity competitions (NCL Top 10% team ranking), and staying ahead of emerging security trends and technologies.  
+  
 ---
 
 ## 🔹 About Me
