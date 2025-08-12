@@ -16,7 +16,7 @@
 - **Security Operations & Threat Analysis** – Proficient in tools like Wireshark, Nessus, Burp Suite, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
 - **Compliance & Risk Knowledge** – Practical exposure to FedRAMP, DoD IL5, CMMC, and security best practices through hands-on client and simulation projects.  
 - **Leadership & Collaboration** – Experience leading high-adventure teams, managing cross-functional projects, and working effectively with engineers, consultants, and security analysts to deliver results.  
-- **Continuous Learner** – Committed to professional growth through certifications, cybersecurity competitions (NCL Top 10% team ranking), and staying ahead of emerging security trends and technologies.  
+- **Continuous Learner** – Committed to professional growth through certifications, cybersecurity competitions, and staying ahead of emerging security trends and technologies.  
   
 ---
 
