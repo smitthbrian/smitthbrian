@@ -22,7 +22,7 @@
 
 ## 🔹 About Me
 
-Hey, I’m **Brian Smith** — a recent CIS graduate and current Cybersecurity Intern at InfusionPoints, LLC, where I’m rotating through departments like advisory, engineering, and the Security Operations Center (SOC). My work focuses on supporting cloud operations, contributing to advisory and consulting engagements, improving internal processes through automation, and assisting with compliance-driven initiatives such as FedRAMP and DoD IL5 — all while building my technical skills in AWS and strengthening cross-team collaboration.
+Hey, I’m **Brian Smith** — a recent CIS graduate and Cybersecurity Intern at InfusionPoints, LLC, where I rotated through departments like advisory, engineering, and the Security Operations Center (SOC). My work focuses on supporting cloud operations, contributing to advisory and consulting engagements, improving processes through automation, and researching compliance-driven initiatives such as FedRAMP — all while building my technical skills in AWS and strengthening cross-team collaboration.
 
 Recently, I earned the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification, which deepened my expertise in cloud architecture and security. To prepare for that exam, I earned the **AWS Certified Cloud Practitioner** certification, setting a good baseline for the SAA-C03 exam. I am currently preparing for the **AWS Certified Security - Specialty** exam in October. 
 
