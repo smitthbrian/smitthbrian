@@ -2,14 +2,14 @@
 <p align="center">
   🎓 BSBA in Computer Information Systems | Concentration: Cybersecurity <br>
   💻 Walker College of Business | Appalachian State University (Class of 2025) <br>
-  📍 North Carolina | Currently a Cybersecurity Intern at <a href="https://infusionpoints.com/" target="_blank" rel="noopener noreferrer">InfusionPoints, LLC</a>
+  📍 North Carolina | Formerly a Cybersecurity Intern at <a href="https://infusionpoints.com/" target="_blank" rel="noopener noreferrer">InfusionPoints, LLC</a>
 </p>
 
 ---
 
 ## 🌟 Highlights
 
-- **Cybersecurity Intern – InfusionPoints, LLC** – Rotated through CloudOps, Advisory, Security Engineering/Development, and SOC. Contributed to DocDev automation, FedRAMP compliance work, vulnerability management, and internal process improvements.  
+- **Rotational Cybersecurity Intern [Summer 2025] – InfusionPoints, LLC** – Rotated through CloudOps, Advisory, Security Engineering/Development, and SOC. Contributed to DocDev automation, FedRAMP compliance work, vulnerability management, and internal process improvements.  
 - **AWS Certified Solutions Architect – Associate** & **Cloud Practitioner** – Strong foundation in cloud architecture, security, and AWS service integration.  
 - **VBA & Office Automation** – Designed automated document generation systems to streamline workflows and reduce turnaround times.  
 - **Cross-Functional Collaboration** – Worked with engineers, consultants, and other team members to deliver results in both technical and client-facing contexts.  
