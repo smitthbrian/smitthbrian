@@ -12,7 +12,7 @@
 - **Cybersecurity & Cloud Professional** – BSBA in Computer Information Systems (Cybersecurity concentration) with hands-on experience across cloud architecture, automation, security operations, and compliance.  
 - **Diverse Project Portfolio** – Built and documented 20+ technical projects spanning process automation, ethical hacking, SOC analysis, compliance reporting, secure network design, and database management.  
 - **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, with ongoing preparation for the AWS Security Specialty exam. Experienced with AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
-- **Process Automation** – Designed VBA- and cloud-powered solutions to streamline workflows, reduce turnaround times, and eliminate repetitive manual tasks.  
+- **Process Automation** – Designed VBA and cloud-powered solutions to streamline workflows, reduce turnaround times, and eliminate repetitive manual tasks.  
 - **Security Operations & Threat Analysis** – Proficient in tools like Wireshark, Nessus, Burp Suite, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
 - **Compliance & Risk Knowledge** – Practical exposure to FedRAMP, DoD IL5, CMMC, and security best practices through hands-on client and simulation projects.  
 - **Leadership & Collaboration** – Experience leading high-adventure teams, managing cross-functional projects, and working effectively with engineers, consultants, and security analysts to deliver results.  
