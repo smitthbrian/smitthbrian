@@ -29,12 +29,11 @@ I'm especially passionate about automating Cybersecurity systems whenever possib
 
 ## ☀️ Summer 2025 Cybersecurity Internship – InfusionPoints, LLC
 
-- Rotated through **Cloud Operations, Advisory, Security Engineering/Development, and SOC** teams.  
-- Contributed to **automation and process improvement initiatives**, including internal tooling for document generation and workflow efficiency.  
-- Gained hands-on experience in **FedRAMP, DoD IL5, and other compliance frameworks** through policy review, testing, and market research.  
-- Collaborated with cross-functional teams on vulnerability scanning, POA&M management, and environment support.  
-- Strengthened AWS expertise (earning **AWS Solutions Architect – Associate**) and applied cloud skills to internal projects.  
-- Developed stronger client-facing and technical communication skills by translating project needs into actionable technical solutions.  
+- Rotated through **Cloud Operations, Advisory, Security Engineering/Development, and SOC** teams.
+- Developed SOWForge, a dynamic Word template for Statements of Work using VBA to automate manual steps, streamlining content population and formatting for faster client engagement.
+- Built BioBot, an AWS/GCP-powered workflow to collect, approve, and publish employee bios, reducing manual effort and accelerating publishing.
+- Supported the transition of a FedRAMP System Security Plan from NIST 800-53 Rev.4 to Rev.5, updating documentation, aligning controls, and ensuring compliance readiness.
+- Contributed to the intern FedRAMP 20x research brief and created a data-driven comparison model to identify capability gaps, differentiators, and partnership opportunities for compliance automation platforms.
 
 ---
 
