@@ -141,8 +141,3 @@ I approach cybersecurity with a balance of **technical depth and business alignm
 - 💼 Resume: [View Resume (DOCX)](https://github.com/smitthbrian/BrianSmithResume/blob/main/BrianSmith_Resume_IP.docx)
 
 ---
-
-<p align="center">
-  <i>"AI will not replace humans, but those who use AI will replace those who don't."</i><br>
-  <b>– Ginni Rometty, Former CEO of IBM</b>
-</p>
