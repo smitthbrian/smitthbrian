@@ -9,58 +9,49 @@
 
 ## 🌟 Highlights
 
-- **Cybersecurity & Cloud Professional** – BSBA in Computer Information Systems (Cybersecurity concentration) with hands-on experience across cloud architecture, automation, security operations, and compliance.  
-- **Diverse Project Portfolio** – Built and documented 20+ technical projects spanning process automation, ethical hacking, SOC analysis, compliance reporting, secure network design, and database management.  
-- **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, with ongoing preparation for the AWS Security Specialty exam. Experienced with AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
-- **Process Automation** – Designed VBA and cloud-powered solutions to streamline workflows, reduce turnaround times, and eliminate repetitive manual tasks.  
-- **Security Operations & Threat Analysis** – Proficient in tools like Wireshark, Nessus, Burp Suite, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
-- **Compliance & Risk Knowledge** – Practical exposure to FedRAMP, DoD IL5, CMMC, and security best practices through hands-on client and simulation projects.  
-- **Leadership & Collaboration** – Experience leading high-adventure teams, managing cross-functional projects, and working effectively with engineers, consultants, and security analysts to deliver results.  
-- **Continuous Learner** – Committed to professional growth through certifications, cybersecurity competitions, and staying ahead of emerging security trends and technologies.  
-  
+- **Cybersecurity & Cloud Engineer** – BSBA in CIS (Cybersecurity concentration) with practical experience in vulnerability remediation, cloud security, and secure infrastructure.  
+- **Professional Experience** – Junior Systems Engineer at Ally Financial, focused on enterprise vulnerability remediation and infrastructure reliability.  
+- **Diverse Project Portfolio** – 20+ documented projects spanning process automation, ethical hacking, SOC analysis, compliance reporting, secure network design, and database management.  
+- **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, preparing for AWS Security Specialty. Skilled in AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
+- **Security Operations & Threat Analysis** – Proficient with Wireshark, Nessus, Burp Suite, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
+- **Leadership & Collaboration** – Background in high-adventure leadership and technical teamwork, with proven ability to deliver results under pressure.  
+- **Continuous Learner** – Dedicated to professional growth through certifications, competitions, and exploring emerging cybersecurity trends.  
+
 ---
 
 ## 🔹 About Me
 
-Hey, I’m **Brian Smith** — a recent CIS graduate and Cybersecurity Intern at InfusionPoints, LLC, where I rotated through departments like advisory, engineering, and the Security Operations Center (SOC). My work focuses on supporting cloud operations, contributing to advisory and consulting engagements, improving processes through automation, and researching compliance-driven initiatives such as FedRAMP — all while building my technical skills in AWS and strengthening cross-team collaboration.
+I am a **Junior Systems Engineer at Ally Financial** and a **Computer Information Systems senior at Appalachian State University** with a concentration in Cybersecurity. My professional focus is on **vulnerability remediation, infrastructure security, and automation** — ensuring that enterprise systems remain resilient against evolving threats.  
 
-Recently, I earned the **AWS Certified Solutions Architect – Associate (SAA-C03)** certification, which deepened my expertise in cloud architecture and security. To prepare for that exam, I earned the **AWS Certified Cloud Practitioner** certification, setting a good baseline for the SAA-C03 exam. I am currently preparing for the **AWS Certified Security - Specialty** exam in October. 
-
-I'm especially passionate about automating Cybersecurity systems whenever possible, designing secure enterprise networks, and communicating complex findings in business-aligned terms. I strongly believe in the power of _continuous learning_ — staying informed, adaptable, and always one step ahead of evolving threats.
+I approach cybersecurity with a balance of **technical depth and business alignment**: solving complex problems with scalable, automated solutions while communicating findings in terms stakeholders can understand. I thrive in collaborative environments where security, efficiency, and innovation intersect, and I’m driven by the belief that technology should be both secure and accessible.  
 
 ---
 
-## ☀️ Summer 2025 Cybersecurity Internship – InfusionPoints, LLC
+## ☀️ Experience  
 
-- Rotated through **Cloud Operations, Advisory, Security Engineering/Development, and SOC** teams.
-- Developed SOWForge, a dynamic Word template for Statements of Work using VBA to automate manual steps, streamlining content population and formatting for faster client engagement.
-- Built BioBot, an AWS/GCP-powered workflow to collect, approve, and publish employee bios, reducing manual effort and accelerating publishing.
-- Supported the transition of a FedRAMP System Security Plan from NIST 800-53 Rev.4 to Rev.5, updating documentation, aligning controls, and ensuring compliance readiness.
-- Contributed to the intern FedRAMP 20x research brief and created a data-driven comparison model to identify capability gaps, differentiators, and partnership opportunities for compliance automation platforms.
+### Current Role  
+- **Junior Systems Engineer – Ally Financial (via Brooksource Elevate Program)**  
+  Supporting vulnerability remediation across enterprise systems and contributing to secure infrastructure practices.  
+
+### Past Role  
+- **Cybersecurity Intern – InfusionPoints, LLC**  
+  Rotated across Cloud Operations, Advisory, Engineering, and SOC teams. Delivered automation tools (SOWForge, BioBot), supported FedRAMP documentation updates, and contributed to compliance research briefs.  
 
 ---
 
 ### 🧠 Technical Skills & Tools
 
-- **Languages**: Python, VBA, SQL, PowerShell, JSON
+- **Languages**: Python, VBA, SQL, PowerShell, JSON  
 - **Tools**: Wireshark, Burp Suite, Nessus, Amazon Inspector, Hashcat, Nmap, Snort, Autopsy, Metasploit, PowerAutomate  
 - **Systems**: Windows, Kali Linux, Ubuntu  
-- **Other**: AWS Cloud Services (EC2, S3, Amplify, API Gateway, DynamoDB), Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
+- **Other**: AWS (EC2, S3, Amplify, API Gateway, DynamoDB), Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
 - **Certifications**:  
   - Microsoft Excel (Office 365)  
   - **AWS Certified Cloud Practitioner**  
   - **AWS Certified Solutions Architect – Associate (SAA-C03)**  
-  - _Preparing for_: AWS Security Specialist (SCS-C02), expected Exam date 10/01/2025
+  - _In Progress_: CompTIA Network+
 
----
 
-## 🏁 Cyber Competitions
-
-- 🥷 **National Cyber League Competitor – Fall 2024**  
-  Competed in real-world cybersecurity challenges: forensic analysis, penetration testing, password cracking, log review, and malware recovery.  
-  🏅 Ranked **Top 10% nationally** (Team) and **Top 25% individually** out of 8,400+ participants.
-
----
 
 ## 📂 Featured Projects  
 
