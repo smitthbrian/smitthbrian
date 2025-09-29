@@ -12,8 +12,8 @@
 - **Cybersecurity & Cloud Engineer** – BSBA in CIS (Cybersecurity concentration) with practical experience in vulnerability remediation, cloud security, and secure infrastructure.  
 - **Professional Experience** – Junior Systems Engineer at Ally Financial, focused on enterprise vulnerability remediation and infrastructure reliability.  
 - **Diverse Project Portfolio** – 20+ documented projects spanning process automation, ethical hacking, SOC analysis, compliance reporting, secure network design, and database management.  
-- **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, preparing for AWS Security Specialty. Skilled in AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
-- **Security Operations & Threat Analysis** – Proficient with Wireshark, Nessus, Burp Suite, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
+- **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner. Skilled in AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
+- **Security Operations & Threat Analysis** – Proficient with Jira, Confluence, Wireshark, Nessus, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
 - **Leadership & Collaboration** – Background in high-adventure leadership and technical teamwork, with proven ability to deliver results under pressure.  
 - **Continuous Learner** – Dedicated to professional growth through certifications, competitions, and exploring emerging cybersecurity trends.  
 
@@ -21,9 +21,9 @@
 
 ## 🔹 About Me
 
-I am a **Junior Systems Engineer at Ally Financial** and a **Computer Information Systems senior at Appalachian State University** with a concentration in Cybersecurity. My professional focus is on **vulnerability remediation, infrastructure security, and automation** — ensuring that enterprise systems remain resilient against evolving threats.  
+I am a **Junior Systems Engineer at Ally Financial** and a recent graduate of the **Computer Information Systems program at Appalachian State University** with a concentration in Cybersecurity. My professional focus is on **vulnerability remediation, infrastructure security, and automation** — ensuring that enterprise systems remain resilient against evolving threats.  
 
-I approach cybersecurity with a balance of **technical depth and business alignment**: solving complex problems with scalable, automated solutions while communicating findings in terms stakeholders can understand. I thrive in collaborative environments where security, efficiency, and innovation intersect, and I’m driven by the belief that technology should be both secure and accessible.  
+I approach cybersecurity with a balance of **technical depth and business alignment**: solving complex problems with scalable, automated solutions while communicating findings in terms stakeholders can understand. I thrive in collaborative environments where security, efficiency, and innovation intersect, and I’m driven by the belief that technology should be both secure and accessible.   
 
 ---
 
@@ -31,18 +31,25 @@ I approach cybersecurity with a balance of **technical depth and business alignm
 
 ### Current Role  
 - **Junior Systems Engineer – Ally Financial (via Brooksource Elevate Program)**  
-  Supporting vulnerability remediation across enterprise systems and contributing to secure infrastructure practices.  
+  Supporting vulnerability remediation across enterprise systems, coordinating with architecture and engineering teams to ensure timely patching & remediation.
+  Work directly with the Telecom Infrastructure team to maintain secure, reliable, and scalable systems supporting Ally's critical business operations.
+  Collaborate with cross-functional teams and stakeholders to align remediation tasks with business priorities and compliance requirements.
+  Monitor and document system vulnerabilities, tracking them through remediation lifecycles to support audit readiness and regulatory standards. 
+   
 
 ### Past Role  
 - **Cybersecurity Intern – InfusionPoints, LLC**  
-  Rotated across Cloud Operations, Advisory, Engineering, and SOC teams. Delivered automation tools (SOWForge, BioBot), supported FedRAMP documentation updates, and contributed to compliance research briefs.  
+  Rotated across Cloud Operations, Advisory, Engineering, and SOC teams.
+  Developed SOWForge, a dynamic Word template for Statements of Work using VBA to automate manual steps, streamlining content population and formatting for faster client engagement.
+  Built BioBot, an AWS/GCP-powered workflow to collect, approve, and publish employee bios, reducing manual effort and accelerating publishing.
+  Supported the transition of FedRAMP System Security Plans (SSPs) from NIST 800-53 Rev.4 to Rev.5, updating documentation, aligning controls, and ensuring compliance readiness.  
 
 ---
 
 ### 🧠 Technical Skills & Tools
 
 - **Languages**: Python, VBA, SQL, PowerShell, JSON  
-- **Tools**: Wireshark, Burp Suite, Nessus, Amazon Inspector, Hashcat, Nmap, Snort, Autopsy, Metasploit, PowerAutomate  
+- **Tools**: Jira, Confluence, Wireshark, Burp Suite, Nessus, Amazon Inspector, Hashcat, Nmap, Snort, Autopsy, Metasploit, PowerAutomate  
 - **Systems**: Windows, Kali Linux, Ubuntu  
 - **Other**: AWS (EC2, S3, Amplify, API Gateway, DynamoDB), Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
 - **Certifications**:  
