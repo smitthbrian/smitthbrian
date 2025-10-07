@@ -5,8 +5,18 @@
   📍 North Carolina | Walker College of Business, Appalachian State University (Class of 2025)
 </p>
 
+
 ---
 
+## 🔹 Professional Statement
+
+As a systems engineer, I am dedicated to fortifying enterprise infrastructure against evolving threats through a blend of technical expertise and strategic thinking. My experience as a Junior Systems Engineer at Ally Financial has provided a strong foundation in enterprise vulnerability remediation and maintaining infrastructure reliability.
+
+My academic background, a BSBA in Computer Information Systems with a Cybersecurity concentration, is reinforced by hands-on project experience in areas such as scripting, process automation and documentation, and security incident response. My proficiency extends to key GRC functions, leveraging tools like Splunk for analysis and Confluence for documentation to ensure **clear communication and compliance standards** are met. This experience is built upon a foundation of commitment and leadership, forged during my time as an Eagle Scout.
+
+Rather than viewing security as a one-time implementation, I approach it as a discipline of **continuous improvement**, ensuring the maturation of existing projects over the constant launch of new initiatives. My AWS Solutions Architect and Cloud Practitioner certifications further validate my cloud expertise. I thrive in collaborative environments focused on creating efficient and secure technological solutions that align with business objectives.   
+
+---
 ## 🌟 Highlights
 
 - **Cybersecurity & Cloud Engineer** – BSBA in CIS (Cybersecurity concentration) with practical experience in vulnerability remediation, cloud security, and secure infrastructure.  
@@ -15,29 +25,19 @@
 - **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner. Skilled in AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
 - **Security Operations & Threat Analysis** – Proficient with Jira, Confluence, Wireshark, Nessus, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
 - **Leadership & Collaboration** – Background in high-adventure leadership and technical teamwork, with proven ability to deliver results under pressure.  
-- **Continuous Learner** – Dedicated to professional growth through certifications, competitions, and exploring emerging cybersecurity trends.  
-
----
-
-## 🔹 About Me
-
-I am a **Junior Systems Engineer at Ally Financial** and a recent graduate of the **Computer Information Systems program at Appalachian State University** with a concentration in Cybersecurity. My professional focus is on **vulnerability remediation, infrastructure security, and automation** — ensuring that enterprise systems remain resilient against evolving threats.  
-
-I approach cybersecurity with a balance of **technical depth and business alignment**: solving complex problems with scalable, automated solutions while communicating findings in terms stakeholders can understand. I thrive in collaborative environments where security, efficiency, and innovation intersect, and I’m driven by the belief that technology should be both secure and accessible.   
-
----
-
-## ☀️ Experience  
+- **Continuous Learner** – Dedicated to professional growth through certifications, competitions, and exploring emerging cybersecurity trends.
+- 
+## Experience  
 
 ### Current Role  
 - **Junior Systems Engineer – Ally Financial (via Brooksource Elevate Program)**  
-  Supporting vulnerability remediation across enterprise systems, coordinating with architecture and engineering teams to ensure timely patching & remediation.
+  Supporting vulnerability remediation and privileged activity monitoring (PAM) across enterprise systems, coordinating with architecture and engineering teams to ensure timely patching & remediation.
   Work directly with the Telecom Infrastructure team to maintain secure, reliable, and scalable systems supporting Ally's critical business operations.
   Collaborate with cross-functional teams and stakeholders to align remediation tasks with business priorities and compliance requirements.
   Monitor and document system vulnerabilities, tracking them through remediation lifecycles to support audit readiness and regulatory standards. 
    
 
-### Past Role  
+### Past Roles
 - **Cybersecurity Intern – InfusionPoints, LLC**  
   Rotated across Cloud Operations, Advisory, Engineering, and SOC teams.
   Developed SOWForge, a dynamic Word template for Statements of Work using VBA to automate manual steps, streamlining content population and formatting for faster client engagement.
@@ -121,7 +121,7 @@ I approach cybersecurity with a balance of **technical depth and business alignm
 
 ---
 
-## 💼 Leadership & Experience
+## 💼 Leadership & Other Experience
 
 - 🧭 **Ranger & Kitchen Manager, Philmont Scout Ranch**  
   Led high-adventure backpacking crews, trained staff in safety and leadership, and managed team performance.
