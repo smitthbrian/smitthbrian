@@ -10,53 +10,64 @@
 
 ## 🔹 Professional Statement
 
-As a systems engineer, I am dedicated to fortifying enterprise infrastructure against evolving threats through a blend of technical expertise and strategic thinking. My experience as a Junior Systems Engineer at Ally Financial has provided a strong foundation in enterprise vulnerability remediation and maintaining infrastructure reliability.
+I am a systems engineer working at the intersection of cybersecurity, information governance, and operational reliability in regulated enterprise environments. In my current role as a Junior Systems Engineer on the Connectivity Services Reliability Engineering (CSRE) team at Ally Financial, I support privileged activity monitoring (PAM), controlled evidence handling, and audit readiness across large-scale network infrastructure.
 
-My academic background, a BSBA in Computer Information Systems with a Cybersecurity concentration, is reinforced by hands-on project experience in areas such as scripting, process automation and documentation, and security incident response. My proficiency extends to key GRC functions, leveraging tools like Splunk for analysis and Confluence for documentation to ensure **clear communication and compliance standards** are met. This experience is built upon a foundation of commitment and leadership -- the same skills exhibited by my Eagle Scout award. 
+Much of my work centers on managing sensitive and classified operational information, including system-generated records, audit evidence packages, and documentation that must meet strict regulatory and procedural requirements. I regularly collaborate with GRC, audit, security, and engineering teams to ensure information is accurate, traceable, and defensible, using systems of record such as ServiceNow, Archer, SharePoint, Confluence, and Jira.
 
-Rather than viewing security as a one-time implementation, I approach it as a discipline of **continuous improvement**, ensuring the maturation of existing projects over the constant launch of new initiatives. My AWS Solutions Architect and Cloud Practitioner certifications further validate my cloud expertise. I thrive in collaborative environments focused on creating efficient and secure technological solutions that align with business objectives.   
+My academic background includes a BSBA in Computer Information Systems with a concentration in Cybersecurity, complemented by hands-on experience in automation, documentation, and compliance-driven workflows. I am particularly interested in information lifecycle management, document control, and process improvement, with a focus on making complex systems measurable, repeatable, and auditable rather than one-off or ad hoc.
+
+Outside of technical work, I bring a strong foundation in leadership and accountability, developed through roles such as Eagle Scout and prior experience at Philmont Scout Ranch in northern New Mexico. I approach security and information management as disciplines of continuous improvement, balancing efficiency with rigor in environments where trust and precision matter.
 
 ---
 ## 🌟 Highlights
 
-- **Cybersecurity & Cloud Engineer** – BSBA in CIS (Cybersecurity concentration) with practical experience in vulnerability remediation, cloud security, and secure infrastructure.  
-- **Professional Experience** – Junior Systems Engineer at Ally Financial, focused on enterprise vulnerability remediation and infrastructure reliability.  
-- **Diverse Project Portfolio** – 20+ documented projects spanning process automation, ethical hacking, SOC analysis, compliance reporting, secure network design, and database management.  
-- **Cloud Expertise & Certifications** – AWS Certified Solutions Architect – Associate and Cloud Practitioner. Skilled in AWS (EC2, S3, Amplify, API Gateway, DynamoDB) and GCP.  
-- **Security Operations & Threat Analysis** – Proficient with Jira, Confluence, Wireshark, Nessus, and Hashcat, with practical skills in penetration testing, vulnerability management, and incident response.  
-- **Leadership & Collaboration** – Background in high-adventure leadership and technical teamwork, with proven ability to deliver results under pressure.  
-- **Continuous Learner** – Dedicated to professional growth through certifications, competitions, and exploring emerging cybersecurity trends.
-- 
-## Experience  
-
-### Current Role  
-- **Junior Systems Engineer – Ally Financial (via Brooksource Elevate Program)**  
-  Supporting vulnerability remediation and privileged activity monitoring (PAM) across enterprise systems, coordinating with architecture and engineering teams to ensure timely patching & remediation.
-  Work directly with the Telecom Infrastructure team to maintain secure, reliable, and scalable systems supporting Ally's critical business operations.
-  Collaborate with cross-functional teams and stakeholders to align remediation tasks with business priorities and compliance requirements.
-  Monitor and document system vulnerabilities, tracking them through remediation lifecycles to support audit readiness and regulatory standards. 
-   
-
-### Past Roles
-- **Cybersecurity Intern – InfusionPoints, LLC**  
-  Rotated across Cloud Operations, Advisory, Engineering, and SOC teams.
-  Developed SOWForge, a dynamic Word template for Statements of Work using VBA to automate manual steps, streamlining content population and formatting for faster client engagement.
-  Built BioBot, an AWS/GCP-powered workflow to collect, approve, and publish employee bios, reducing manual effort and accelerating publishing.
-  Supported the transition of FedRAMP System Security Plans (SSPs) from NIST 800-53 Rev.4 to Rev.5, updating documentation, aligning controls, and ensuring compliance readiness.  
+- **Information Governance & Security Engineering** – Systems engineer with hands-on experience managing controlled and classified information, audit evidence, and privileged access records in regulated enterprise environments  
+- **Professional Experience** – Junior Systems Engineer at Ally Financial, supporting PAM, compliance alignment, and evidence lifecycle management across large-scale network infrastructure  
+- **Compliance & Audit Readiness** – Practical experience working under FFIEC, NIST 800-53, FedRAMP, and RMF expectations, supporting documentation, review, and traceability requirements  
+- **Process Improvement & Automation** – Designed and implemented workflow automations to improve documentation consistency, reduce manual effort, and strengthen audit defensibility  
+- **Cloud & Enterprise Systems** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, with experience supporting multi-cloud and enterprise systems  
+- **Collaborative & Trust-Oriented** – Proven ability to work across technical and non-technical stakeholders in environments where accuracy, judgment, and accountability are critical  
 
 ---
 
-### 🧠 Technical Skills & Tools
+## 💼 Experience
 
-- **Languages**: Python, VBA, SQL, PowerShell, JSON  
-- **Tools**: Jira, Confluence, Wireshark, Burp Suite, Nessus, Amazon Inspector, Hashcat, Nmap, Snort, Autopsy, Metasploit, PowerAutomate  
-- **Systems**: Windows, Kali Linux, Ubuntu  
-- **Other**: AWS (EC2, S3, Amplify, API Gateway, DynamoDB), Git/GitHub, Salesforce, Microsoft Excel (Certified), DBSync  
-- **Certifications**:  
-  - Microsoft Excel (Office 365)  
-  - **AWS Certified Cloud Practitioner**  
-  - **AWS Certified Solutions Architect – Associate (SAA-C03)**  
-  - _In Progress_: CompTIA Network+
+### Current Role  
+**Junior Systems Engineer – Ally Financial (via Brooksource Elevate Program)**
+
+- Support privileged activity monitoring (PAM) across multi-vendor network environments, managing system-generated records and controlled evidence used for audit and compliance review  
+- Collaborate with GRC, internal audit, and engineering teams to align documentation, evidence handling, and operational practices with regulatory requirements  
+- Maintain and improve Splunk dashboards and monitoring workflows used to review privileged activity, anomalies, and operational trends  
+- Track hardware inventory records, vulnerability remediation efforts, and change management artifacts through governed systems of record to ensure accuracy and closure  
+
+### Past Roles
+
+**Cybersecurity Intern – InfusionPoints, LLC**
+
+- Rotated across Cloud Operations, Advisory, Engineering, and SOC teams supporting federal and enterprise security initiatives  
+- Built **SOWForge**, a VBA-based automation to standardize and accelerate controlled documentation for Statements of Work  
+- Developed **BioBot**, a multi-cloud (AWS/GCP) workflow to collect, approve, and publish employee bios, improving traceability and reducing manual effort  
+- Supported a FedRAMP High SSP uplift by mapping access control requirements from NIST 800-53 Rev. 4 to Rev. 5, strengthening authorization documentation and compliance readiness  
+
+---
+
+## 🧠 Technical Skills & Tools
+
+**Languages:** Python, VBA, SQL, PowerShell, JSON  
+
+**Monitoring & Analysis:** Splunk, SolarWinds, Wireshark  
+
+**Systems of Record & Documentation:** ServiceNow, Archer, Jira, Confluence, SharePoint  
+
+**Security Tools:** Nessus, Amazon Inspector, Burp Suite, Hashcat, Nmap, Snort, Metasploit, Autopsy  
+
+**Platforms & Systems:** AWS (EC2, S3, API Gateway, DynamoDB), Windows, Kali Linux, Ubuntu  
+
+**Certifications:**  
+- AWS Certified Solutions Architect – Associate  
+- AWS Certified Cloud Practitioner  
+- Microsoft Excel (Office 365)  
+- *In Progress:* CompTIA Security+
 
 
 
