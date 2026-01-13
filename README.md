@@ -1,6 +1,6 @@
 <h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
 <p align="center">
-  💻 Junior Systems Engineer @ Ally Financial <br>
+  💻 Systems Engineer @ Ally Financial <br>
   🎓 BSBA in Computer Information Systems | Concentration: Cybersecurity <br>
   📍 North Carolina | Walker College of Business, Appalachian State University (Class of 2025)
 </p>
