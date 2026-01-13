@@ -53,7 +53,7 @@ Outside of technical work, I bring a strong foundation in leadership and account
 
 ## 🧠 Technical Skills & Tools
 
-**Languages:** Python, VBA, SQL, PowerShell, JSON  
+**Languages:** Splunk SPL, Python, VBA, SQL, PowerShell, JSON  
 
 **Monitoring & Analysis:** Splunk, SolarWinds, Wireshark  
 
@@ -73,7 +73,7 @@ Outside of technical work, I bring a strong foundation in leadership and account
 
 ## 📂 Featured Projects  
 
-### ⚙️ Process Automation & Cloud Integration  
+### ⚙️ Process Automation & Microsoft Suite 
 - 📝 **SOWForge – Automated SOW Generation Tool** *(Private Repo)*  
   VBA-powered Word automation integrated with Excel-based content mapping to dynamically generate Statements of Work. Reduced document turnaround from hours to minutes. *(Full project details available upon request.)*  
 
