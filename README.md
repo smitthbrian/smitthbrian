@@ -1,154 +1,127 @@
-<h1 align="center">Brian Smith's Cybersecurity & IT Portfolio 🛡️</h1>
+<h1 align="center">Brian Smith</h1>
 <p align="center">
-  💻 Systems Engineer @ Ally Financial <br>
-  🎓 BSBA in Computer Information Systems | Concentration: Cybersecurity <br>
-  📍 North Carolina | Walker College of Business, Appalachian State University (Class of 2025)
+  <b>GRC Engineer @ Ally Financial</b><br>
+  Network Infrastructure · Governance, Risk & Compliance · Cybersecurity<br>
+  📍 Charlotte, NC
 </p>
 
+---
+
+## About
+
+I'm a GRC Engineer at Ally Financial, working where network infrastructure, compliance, and cybersecurity meet. I design and maintain automated pipelines that replace manual, error-prone audit processes with defensible, repeatable evidence collection at scale.
+
+The technical side of that spans Python, network-data ETL, vulnerability management, Splunk instrumentation, GitLab CI/CD, and AI-assisted tooling through MCP integrations and agentic coding sessions. The other side is translation: turning regulatory and audit requirements into architectural decisions, scoping findings to their root causes, leading remediation across teams, and serving as a primary point of contact for internal and regulatory audit engagements.
+
+A core part of the job is acting as the first line of defense on our own architecture, identifying control gaps and design risks before they surface as formal findings. Knowing what an auditor will look for shapes both how I build and what I go looking for.
+
+Many GRC programs still treat compliance as a scramble before the audit. Continuous, automated evidence of compliance is the better model, and it's what I'm building toward.
 
 ---
 
-## 🔹 Professional Statement
+## What I Work On
 
-I am a systems engineer working at the intersection of cybersecurity, information governance, and operational reliability in regulated enterprise environments. In my current role as a Junior Systems Engineer on the Connectivity Services Reliability Engineering (CSRE) team at Ally Financial, I support privileged activity monitoring (PAM), controlled evidence handling, and audit readiness across large-scale network infrastructure.
+**Privileged Activity Monitoring (PAM)**
+- Administer and develop the privileged activity monitoring environment for an enterprise network engineering organization, a role I've held for over a year
+- Own AAA and syslog configuration standards across a multi-vendor fleet: switches, routers, out-of-band console infrastructure, network packet brokers, and centralized management platforms (Fortinet, Arista, Cisco, OpenGear, Gigamon)
 
-Much of my work centers on managing sensitive and classified operational information, including system-generated records, audit evidence packages, and documentation that must meet strict regulatory and procedural requirements. I regularly collaborate with GRC, audit, security, and engineering teams to ensure information is accurate, traceable, and defensible, using systems of record such as ServiceNow, Archer, SharePoint, Confluence, and Jira.
+**Detection & evidence automation**
+- Building a pipeline that consolidates AAA accounting logs, raw syslog, and management-platform audit logs into a single normalized source
+- Activity is automatically evaluated against roughly a dozen detection checks, including:
+  - Unauthorized or out-of-policy commands
+  - Brute-force indicators and excessive failed logins
+  - Network changes with no associated change record, incident, or vendor support case
+  - Changes made outside approved change windows
+- Integrates with ServiceNow, Splunk, FortiManager, and Arista CloudVision APIs to correlate activity against change records and device state
+- Developed with Claude Code and MCP integrations, with the goal of producing continuous, audit-ready evidence instead of point-in-time samples
 
-My academic background includes a BSBA in Computer Information Systems with a concentration in Cybersecurity, complemented by hands-on experience in automation, documentation, and compliance-driven workflows. I am particularly interested in information lifecycle management, document control, and process improvement, with a focus on making complex systems measurable, repeatable, and auditable rather than one-off or ad hoc.
+**Findings management & remediation**
+- Manage GRC findings for the network space end to end: scoping, root cause, stakeholder coordination, remediation tracking, and closure evidence
+- Drive the technical solutions behind remediation, not just the paperwork
+- Example: helped develop and track a fleet-wide local credential rotation process that covers hundreds of network devices in a single maintenance window, satisfying both scheduled and offboarding-triggered rotation requirements
 
-Outside of technical work, I bring a strong foundation in leadership and accountability, developed through roles such as Eagle Scout and prior experience at Philmont Scout Ranch in northern New Mexico. I approach security and information management as disciplines of continuous improvement, balancing efficiency with rigor in environments where trust and precision matter.
+**Audit engagement**
+- Primary point of contact for internal and regulatory audit requests in my area
+- Translate control language into what the infrastructure actually does, and into what evidence proves it
 
----
-## 🌟 Highlights
-
-- **Information Governance & Security Engineering** – Systems engineer with hands-on experience managing controlled and classified information, audit evidence, and privileged access records in regulated enterprise environments  
-- **Professional Experience** – Junior Systems Engineer at Ally Financial, supporting PAM, compliance alignment, and evidence lifecycle management across large-scale network infrastructure  
-- **Compliance & Audit Readiness** – Practical experience working under FFIEC, NIST 800-53, FedRAMP, and RMF expectations, supporting documentation, review, and traceability requirements  
-- **Process Improvement & Automation** – Designed and implemented workflow automations to improve documentation consistency, reduce manual effort, and strengthen audit defensibility  
-- **Cloud & Enterprise Systems** – AWS Certified Solutions Architect – Associate and Cloud Practitioner, with experience supporting multi-cloud and enterprise systems  
-- **Collaborative & Trust-Oriented** – Proven ability to work across technical and non-technical stakeholders in environments where accuracy, judgment, and accountability are critical  
-
----
-
-## 💼 Experience
-
-### Current Role  
-**Junior Systems Engineer – Ally Financial (via Brooksource Elevate Program)**
-
-- Support privileged activity monitoring (PAM) across multi-vendor network environments, managing system-generated records and controlled evidence used for audit and compliance review  
-- Collaborate with GRC, internal audit, and engineering teams to align documentation, evidence handling, and operational practices with regulatory requirements  
-- Maintain and improve Splunk dashboards and monitoring workflows used to review privileged activity, anomalies, and operational trends  
-- Track hardware inventory records, vulnerability remediation efforts, and change management artifacts through governed systems of record to ensure accuracy and closure  
-
-### Past Roles
-
-**Cybersecurity Intern – InfusionPoints, LLC**
-
-- Rotated across Cloud Operations, Advisory, Engineering, and SOC teams supporting federal and enterprise security initiatives  
-- Built **SOWForge**, a VBA-based automation to standardize and accelerate controlled documentation for Statements of Work  
-- Developed **BioBot**, a multi-cloud (AWS/GCP) workflow to collect, approve, and publish employee bios, improving traceability and reducing manual effort  
-- Supported a FedRAMP High SSP uplift by mapping access control requirements from NIST 800-53 Rev. 4 to Rev. 5, strengthening authorization documentation and compliance readiness  
+> Details of this work are proprietary, so it's described here in general terms and the code lives in private repositories.
 
 ---
 
-## 🧠 Technical Skills & Tools
+## Experience
 
-**Languages:** Splunk SPL, Python, VBA, SQL, PowerShell, JSON  
+**GRC Engineer · Ally Financial** · Charlotte, NC · 2025 – Present  
+Connectivity Services. Privileged activity monitoring, compliance automation, findings remediation, and audit support across enterprise network infrastructure.
 
-**Monitoring & Analysis:** Splunk, SolarWinds, Wireshark  
-
-**Systems of Record & Documentation:** ServiceNow, Archer, Jira, Confluence, SharePoint  
-
-**Security Tools:** Nessus, Amazon Inspector, Burp Suite, Hashcat, Nmap, Snort, Metasploit, Autopsy  
-
-**Platforms & Systems:** AWS (EC2, S3, API Gateway, DynamoDB), Windows, Kali Linux, Ubuntu  
-
-**Certifications:**  
-- AWS Certified Solutions Architect – Associate  
-- AWS Certified Cloud Practitioner  
-- Microsoft Excel (Office 365)  
-- *In Progress:* CompTIA Security+
-
-
-
-## 📂 Featured Projects  
-
-### ⚙️ Process Automation & Microsoft Suite 
-- 📝 **SOWForge – Automated SOW Generation Tool** *(Private Repo)*  
-  VBA-powered Word automation integrated with Excel-based content mapping to dynamically generate Statements of Work. Reduced document turnaround from hours to minutes. *(Full project details available upon request.)*  
-
-- 🤖 [**BioBot – Employee Bio Website Automation Platform**](https://github.com/smitthbrian/BioBot)  
-  AWS/GCP-powered form submission and approval workflow for collecting and publishing employee bios. Automated approvals, content formatting, and delivery to the company website. *(Full presentation available upon request.)*  
+**Cybersecurity Intern · InfusionPoints, LLC**  
+- Rotated across Cloud Operations, Advisory, Engineering, and SOC teams supporting federal and enterprise security work
+- Built **SOWForge**, a VBA automation that standardized Statement of Work generation and cut turnaround from hours to minutes
+- Developed **BioBot**, a multi-cloud (AWS/GCP) workflow to collect, approve, and publish employee bios
+- Supported a FedRAMP High SSP uplift by mapping access control requirements from NIST 800-53 Rev. 4 to Rev. 5
 
 ---
 
-### 🔥 Ethical Hacking & Offensive Security  
-- 🔓 [**Password Cracking: Windows & Kali Attack Simulation**](https://github.com/smitthbrian/Password-Cracking)  
-  Simulates real-world attacks using NTLM hash extraction, Wireshark, and Hashcat on VMs.  
+## Skills & Tools
 
-- 🩻 [**SQL Injection Vulnerabilities**](https://github.com/smitthbrian/SQL-Injection-Vulnerabilities)  
-  Showcases both offensive injection techniques and defensive secure coding using ASPX & MariaDB.  
+| Area | Tools |
+|---|---|
+| **Languages & query** | Python, Splunk SPL, SQL, PowerShell, VBA |
+| **Automation & integration** | REST APIs (ServiceNow, Splunk, FortiManager, Arista CloudVision), GitLab CI/CD, ETL pipelines, Claude Code, MCP |
+| **Network & security infrastructure** | Fortinet (FortiGate, FortiManager, FortiAnalyzer), Arista, Cisco, F5 BIG-IP, OpenGear, Gigamon; TACACS+/AAA, syslog |
+| **Monitoring & SIEM** | Splunk, SolarWinds, Wireshark |
+| **GRC & systems of record** | ServiceNow, Archer, Jira, Confluence, SharePoint; NIST 800-53, FFIEC, FedRAMP |
+| **Cloud** | AWS (EC2, S3, API Gateway, DynamoDB) |
+| **Security tooling** | Nessus, Amazon Inspector, Burp Suite, Nmap, Hashcat, Snort, Metasploit |
 
-- 💀 [**Liber8tion Password Cracking Simulation**](https://github.com/smitthbrian/Network-Traffic-Analysis)  
-  Cracked password dumps with rockyou + Hashcat to analyze a fictional hacker group's breach.  
+**Certifications**
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- Microsoft Excel (Office 365)
+- *In progress:* CompTIA Security+
 
----
-
-### 🛡️ Security Operations & Threat Analysis  
-- 🕵️ [**Wireshark Incident Report Simulation**](https://github.com/smitthbrian/Wireshark-Incident-Report-)  
-  Network forensics and anomaly detection using packet capture analysis in a simulated security incident.  
-
-- 📈 [**Web Access Log Audit – Superior Schedules**](https://github.com/smitthbrian/Password-Audit-Simulation)  
-  Log analysis to identify reconnaissance activity and malware indicators like SYSTEMBC and AndroxGh0st.  
-
-- 🌐 [**Remote Access VPN & Network Defense**](https://github.com/smitthbrian/VPN)  
-  Configured secure VPN access using pfSense and OpenVPN with access controls, firewall rules, and certificate-based authentication. Demonstrated encrypted file share access and endpoint compliance checks.  
-
----
-
-### 🚨 Risk Management & Compliance  
-- 🧾 [**Incident Disclosure Report – Flair Airlines**](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report)  
-  Legal analysis and executive report simulating a public breach event under SOX, GLBA, and GDPR.  
-
-- 🦠 [**Ransomware and Least Privilege Project**](https://github.com/smitthbrian/Ransomware-and-Least-Privilege-Project)  
-  Highlights how enforcing least privilege policies reduces ransomware risk in enterprise environments.  
-
-- 🌐 [**Web App Vulnerabilities Simulation**](https://github.com/smitthbrian/XSS-CSRF-Session-Hijacking-and-Malicious-File-Uploads)  
-  Simulated exploit demos: XSS, CSRF, session hijacking, and file upload abuse — with mitigation strategies.  
+**Education**  
+BSBA, Computer Information Systems (Cybersecurity concentration), Walker College of Business, Appalachian State University, 2025
 
 ---
 
-### 📊 Data & System Administration  
-- 🗃️ [**Database Management Simulation**](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code)  
-  Designed, queried, and normalized SQL tables to manage customer and sales data for a mock business.  
+## Projects
 
-- 🔄 [**Salesforce–QuickBooks ETL Integration Project**](https://github.com/smitthbrian/ETL-Project)  
-  Automated invoicing and payment sync for a smart home tech firm using DBSync. Created ETL pipelines between Salesforce and QuickBooks to eliminate manual data entry and reduce error rates.  
+My current work is private. The public repositories below are from my internship and coursework.
+
+**Automation**
+- [**BioBot**](https://github.com/smitthbrian/BioBot): AWS/GCP form submission and approval workflow for collecting and publishing employee bios
+- **SOWForge** *(private)*: VBA-powered Word automation with Excel content mapping for generating Statements of Work
+- [**Salesforce–QuickBooks ETL Integration**](https://github.com/smitthbrian/ETL-Project): ETL pipelines syncing invoicing and payments to eliminate manual data entry
+
+**Security operations & network defense**
+- [**Wireshark Incident Report**](https://github.com/smitthbrian/Wireshark-Incident-Report-): network forensics and anomaly detection from packet captures in a simulated incident
+- [**Web Access Log Audit**](https://github.com/smitthbrian/Password-Audit-Simulation): log analysis identifying reconnaissance activity and malware indicators
+- [**Remote Access VPN & Network Defense**](https://github.com/smitthbrian/VPN): pfSense and OpenVPN with access controls, firewall rules, and certificate-based authentication
+- [**Zero Trust Architecture Implementation**](https://github.com/smitthbrian/Zero-Trust-Architecture-Implementation)
+
+**Risk & compliance**
+- [**Incident Disclosure Report**](https://github.com/smitthbrian/Incident-Disclosure-Mock-Report): legal analysis and executive report for a simulated breach under SOX, GLBA, and GDPR
+- [**Ransomware and Least Privilege**](https://github.com/smitthbrian/Ransomware-and-Least-Privilege-Project): how least-privilege enforcement reduces ransomware risk
+
+**Offensive security labs**
+- [**Password Cracking: Windows & Kali**](https://github.com/smitthbrian/Password-Cracking): NTLM hash extraction, Wireshark, and Hashcat on VMs
+- [**Liber8tion Password Cracking Simulation**](https://github.com/smitthbrian/Network-Traffic-Analysis): password dump analysis with rockyou and Hashcat
+- [**SQL Injection Vulnerabilities**](https://github.com/smitthbrian/SQL-Injection-Vulnerabilities): injection techniques and secure-coding defenses with ASPX and MariaDB
+- [**Web Application Vulnerabilities**](https://github.com/smitthbrian/Web-Application-Vulnerabilities-Simulation): XSS, CSRF, session hijacking, and file upload abuse, with mitigations
+
+**Data**
+- [**Database Management (MySQL)**](https://github.com/smitthbrian/Database-Management---Cumulative-MySQL-Code): schema design, normalization, and queries for a mock business
+
+---
+
+## Beyond Work
+
+- **Ranger & Kitchen Manager, Philmont Scout Ranch**: led backcountry backpacking crews and trained staff in safety and leadership
+- **Eagle Scout**: organized volunteers to restore 30+ bikes and rehabilitate local trails used by children's programs
 
 ---
 
-**Confidentiality Note**  
-> Some project repositories and supporting materials are private due to confidentiality or file size. Full details and presentations are available upon request.
+## Contact
 
----
-
-## 💼 Leadership & Other Experience
-
-- 🧭 **Ranger & Kitchen Manager, Philmont Scout Ranch**  
-  Led high-adventure backpacking crews, trained staff in safety and leadership, and managed team performance.
-
-- 🧠 **Club Member – Appalachian Information Technology Professionals**  
-  Engaged in cybersecurity networking, project collaboration, and career prep for IT students.
-
-- 🚴 **Eagle Scout – Bike Recyclery Project**  
-  Organized volunteers to restore 30+ bikes and rehabilitate local trails used by children’s programs.
-
----
-
-## 📬 Contact Me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/briansmith2025/)
-- 📧 Email: smitthbrian2@gmail.com
-- 💼 Resume: [View Resume (DOCX)](https://github.com/smitthbrian/BrianSmithResume/blob/main/BrianSmith_Resume_IP.docx)
-
----
+- [LinkedIn](https://www.linkedin.com/in/briansmith2025/)
+- Email: smitthbrian2@gmail.com
